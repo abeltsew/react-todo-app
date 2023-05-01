@@ -1,5 +1,3 @@
-import { useState } from 'react';
-
 import { useState, useEffect, useRef } from 'react';
 import { useOnClickOutside } from './useOnClickOutside';
 const Navbar = () => {
